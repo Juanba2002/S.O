@@ -1,0 +1,13 @@
+Reporte de la simulación:
+Hora 8 - Aceptadas: 0, Negadas: 0, Reprogramadas: 0
+Hora 9 - Aceptadas: 0, Negadas: 0, Reprogramadas: 0
+Hora 10 - Aceptadas: 0, Negadas: 0, Reprogramadas: 0
+Hora 11 - Aceptadas: 0, Negadas: 0, Reprogramadas: 0
+Hora 12 - Aceptadas: 0, Negadas: 0, Reprogramadas: 0
+Hora 13 - Aceptadas: 0, Negadas: 0, Reprogramadas: 0
+Hora 14 - Aceptadas: 0, Negadas: 0, Reprogramadas: 0
+Hora 15 - Aceptadas: 0, Negadas: 0, Reprogramadas: 0
+Hora 16 - Aceptadas: 0, Negadas: 0, Reprogramadas: 0
+Hora pico: -1 con 0 personas
+Hora con menos personas: 8 con 0 personas
+Total de solicitudes reprogramadas: 0

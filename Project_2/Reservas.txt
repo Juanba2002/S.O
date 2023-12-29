@@ -1,0 +1,4 @@
+Perez,10,5
+Martinez,10,3
+Guzman,10,2
+Toledo,,12,5
